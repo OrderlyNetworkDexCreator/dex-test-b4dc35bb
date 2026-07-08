@@ -1,5 +1,5 @@
 window.__RUNTIME_CONFIG__ = {
-  "VITE_ORDERLY_BROKER_ID": "demo",
+  "VITE_ORDERLY_BROKER_ID": "xvisiionio",
   "VITE_ORDERLY_BROKER_NAME": "test",
   "VITE_BROKER_EOA_ADDRESS": "0x38ae3287806b402316683545bd6b4e6e76e7256f",
   "VITE_DISABLE_MAINNET": "false",
@@ -27,7 +27,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "",
   "VITE_SEO_SITE_NAME": "",
   "VITE_SEO_SITE_DESCRIPTION": "",
-  "VITE_SEO_SITE_URL": "https://dex.orderly.network/dex-test-b4dc35bb/",
+  "VITE_SEO_SITE_URL": "https://xvisiion.io",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "",
