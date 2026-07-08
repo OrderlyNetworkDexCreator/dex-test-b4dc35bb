@@ -1,6 +1,6 @@
 window.__RUNTIME_CONFIG__ = {
   "VITE_ORDERLY_BROKER_ID": "xvisiionio",
-  "VITE_ORDERLY_BROKER_NAME": "test",
+  "VITE_ORDERLY_BROKER_NAME": "xvisiion.io",
   "VITE_BROKER_EOA_ADDRESS": "0x38ae3287806b402316683545bd6b4e6e76e7256f",
   "VITE_DISABLE_MAINNET": "false",
   "VITE_DISABLE_TESTNET": "false",
@@ -14,7 +14,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_DISABLE_EVM_WALLETS": "false",
   "VITE_DISABLE_SOLANA_WALLETS": "false",
   "VITE_WALLETCONNECT_PROJECT_ID": "",
-  "VITE_APP_NAME": "test",
+  "VITE_APP_NAME": "xvisiion.io",
   "VITE_APP_DESCRIPTION": "Orderly Trading Application",
   "VITE_HAS_PRIMARY_LOGO": "false",
   "VITE_HAS_SECONDARY_LOGO": "false",
